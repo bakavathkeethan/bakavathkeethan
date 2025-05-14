@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bakavathkeethan
-- im tamil boy
+- 😎  im tamil boy
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning web develoment
 - 💞️ I’m looking to collaborate on coding
